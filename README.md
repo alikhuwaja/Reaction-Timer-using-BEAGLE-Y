@@ -1,4 +1,4 @@
-# ENSC Sample Assignment Build Structure
+# ENSC 351 Assignment 1 Build Structure
 
 This is a working project that you can use as the basis for your assignments.
 
