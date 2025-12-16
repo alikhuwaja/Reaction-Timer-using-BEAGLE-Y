@@ -1,4 +1,4 @@
-# CMPT 433 Sample Assignment Build Structure
+# ENSC Sample Assignment Build Structure
 
 This is a working project that you can use as the basis for your assignments.
 
